@@ -1,6 +1,6 @@
 #include <stdio.h>
-//https://github.com/leyvajoaquinn/TPN-5/tree/main
-//https://github.com/leyvajoaquinn/TPN-3/blob/main/tp3
+//https://github.com/leyvajoaquinn/Informatica1
+//bmi.c
 int main()
 {   
     float promedio=0;
