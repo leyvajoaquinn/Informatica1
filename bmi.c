@@ -5,12 +5,12 @@ int main() {
     float num2;
     float num3;
 
-do{
+
     printf("ingrese su peso en kg: \n");   
     scanf("%f", &num1);
     printf("ingrese su altura en metros: \n");
     scanf("%f", &num2);
-   }while(num1<0 ||num2<0);
+
 
     num3 = num1/(num2 * num2);
     printf("su BMI es %2.f \n", num3 );
