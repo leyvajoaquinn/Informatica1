@@ -1,4 +1,4 @@
-//https://github.com/leyvajoaquinn/tp7.c/tree/main
+//https://github.com/leyvajoaquinn/Informatica1
 #include <stdio.h>
 
 #define TAM 5
