@@ -1,3 +1,4 @@
+//https://github.com/leyvajoaquinn/Informatica1/blob/main/tp8.c
 #include <stdio.h>
 #include <stdlib.h>
 #define TAM 20
